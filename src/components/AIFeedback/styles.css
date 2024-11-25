@@ -1,0 +1,14 @@
+.results-display{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow */
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 12px;
+    text-align: start;
+}
